@@ -1,4 +1,4 @@
-# Purchase-Order-Tracker
+# Purchase Order Tracker
 
 This project is a sub-project of the equipment inventory project. This application is used to input and track purchase order information. This application was programmed using PHP, MySQL, JavaScript, JQuery, HTML, and CSS.
 
