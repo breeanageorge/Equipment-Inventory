@@ -1,4 +1,4 @@
-# Equipment-Inventory
+# Equipment Inventory
 
 For this project, I recreated/updated an existing equipment tracking webpage. This application allows users to view and change information for technology/equipment. The goal of this project was to maintain functionality, fix data inconsistencies, track consumable items, create a change log, and simplify searching. This application was programmed using PHP, MySQL, JavaScript, JQuery, HTML, and CSS.
 
