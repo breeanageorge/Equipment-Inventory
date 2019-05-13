@@ -16,14 +16,14 @@ I also wanted to make it easier for users to search through all of the equipment
 
 ## New Look
 
-Initial landing page:
+Initial landing page:\
 ![Application landing page picture](/EI_1.PNG)
 
-Searching with datalists:
+Searching with datalists:\
 ![Searching with datalists picture](/EI_2.PNG)
 
-Clicking the ID number button for more information:
+Clicking the ID number button for more information:\
 ![More information picture](/EI_3.PNG)
 
-Consumable counter page:
+Consumable counter page:\
 ![Consumable counter picture](/EI_4.PNG)
