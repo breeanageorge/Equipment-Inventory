@@ -13,10 +13,10 @@ Another goal of this project, much like the equipment inventory project, was to 
 ## New Look
 
 Initial landing page:\
-![Application landing page picture](/PT_1.PNG)
+![Application landing page picture](/Purchase-Order-Tracker/PT_1.PNG)
 
 Expanding subsections:\
-![Searching with datalists picture](/PT_2.PNG)
+![Searching with datalists picture](/Purchase-Order-Tracker/PT_2.PNG)
 
 Adding a new PO:\
-![More information picture](/PT_3.PNG)
+![More information picture](/Purchase-Order-Tracker/PT_3.PNG)
