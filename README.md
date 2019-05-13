@@ -2,6 +2,9 @@
 
 For this project, I recreated/updated an existing equipment tracking webpage. This application allows users to view and change information for technology/equipment. The goal of this project was to maintain functionality, fix data inconsistencies, track consumable items, create a change log, and simplify searching. This application was programmed using PHP, MySQL, JavaScript, JQuery, HTML, and CSS.
 
+A subsection of this project was to create a purchase order tracker, see more information about that here:\
+[Link to purchase order tracker sub-project](/Purchase-Order-Tracker/README.md)
+
 ## Goals and Challenges
 
 A feature from the previous page that we wanted to maintain was the ability to make changes on the "table view"/main page of the application without page refreshes. I accomplished this using JavaScript, AJAX calls, and a PHP handler page.
